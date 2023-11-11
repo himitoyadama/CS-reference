@@ -1,5 +1,7 @@
 # CS-reference
 
+https://github.com/shigekof/c_sharp_app#c_sharp_app
+
 https://github.com/livealvi/.NET-Point-of-Sale-POS--Csharp
 
 https://learn.microsoft.com/ja-jp/dotnet/framework/additional-apis/pos-for-net/developing-a-pos-application
