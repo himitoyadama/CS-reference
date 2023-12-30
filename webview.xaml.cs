@@ -13,13 +13,13 @@ namespace App1
         public MainPage()
         {
             InitializeComponent();
-            // webView.Source = "https://www.youtube.com";
-            var localhtml = new HtmlWebViewSource();
+            fuck.Source = "https://www.youtube.com";
+            /*var localhtml = new HtmlWebViewSource();
             localhtml.Html = @"html><body>
                                 <h1>xamarin webview</h1>
                                 <p>this is my first xamarin local html</p>
                                </body></html>";
-            webView.Source = localhtml;
+            fuck.Source = localhtml;*/
         }
     }
 }
