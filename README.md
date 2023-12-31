@@ -2,6 +2,8 @@
 
 
 ngrokでバックエンド系のWebサイトを公開
+ngrokインストール方法と簡単な使い方 https://www.mgo-tec.com/blog-entry-ngrok-install.html
+
 MAUIでwebviewの実装
 
 MAUIのアイコン変更
