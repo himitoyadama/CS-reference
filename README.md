@@ -1,4 +1,5 @@
 #ホストクラブ用の会員証作成
+
 アカカベオンラインショップ
 https://member.qoo10.jp/mobile/login?nextUrl=https://m.qoo10.jp/gmkt.inc/Mobile/MiniShop/Default.aspx?shopdomain=akakabe-onlineshop
 
