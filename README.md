@@ -1,9 +1,5 @@
 #ホストクラブ用の会員証作成
 
-https://www5.vcsys.com/s/lincacard/p/
-
-アカカベオンラインショップ
-https://member.qoo10.jp/mobile/login?nextUrl=https://m.qoo10.jp/gmkt.inc/Mobile/MiniShop/Default.aspx?shopdomain=akakabe-onlineshop
 
 ngrokでバックエンド系のWebサイトを公開
 ngrokインストール方法と簡単な使い方 https://www.mgo-tec.com/blog-entry-ngrok-install.html
