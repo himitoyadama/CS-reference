@@ -1,5 +1,8 @@
 #ホストクラブ用の会員証作成
 
+【Kotlin】WebViewでアプリ内にWebページを表示する方法 
+https://hiyoko-programming.com/1977/
+
 
 ngrokでバックエンド系のWebサイトを公開
 ngrokインストール方法と簡単な使い方 https://www.mgo-tec.com/blog-entry-ngrok-install.html
