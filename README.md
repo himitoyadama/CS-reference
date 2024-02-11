@@ -1,5 +1,8 @@
 #ホストクラブ用の会員証作成
 
+【初心者向け】Android Studioでアプリアイコンの設定をしよう！ 
+https://www.youtube.com/watch?v=LV-AXc3MZyw
+
 【Kotlin】WebViewでアプリ内にWebページを表示する方法 
 https://hiyoko-programming.com/1977/
 
