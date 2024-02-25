@@ -1,4 +1,8 @@
 #ホストクラブ用の会員証作成
+
+【Web制作】Webサイト公開までの流れを一気に解説！フリーランス志望の方必見【ドメイン / サーバー】 
+https://m.youtube.com/watch?v=kd6CA5mfhps
+
 Node.jsアプリをHerokuを使ってデプロイ(公開)する方法 ~Node.js入門~
 https://m.youtube.com/watch?v=5wrZ1LwE2os
 
