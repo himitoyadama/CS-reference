@@ -1,4 +1,6 @@
 #ホストクラブ用の会員証作成
+Node.jsアプリをHerokuを使ってデプロイ(公開)する方法 ~Node.js入門~
+https://m.youtube.com/watch?v=5wrZ1LwE2os
 
 【初心者向け】Android Studioでアプリアイコンの設定をしよう！ 
 https://www.youtube.com/watch?v=LV-AXc3MZyw
