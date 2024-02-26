@@ -6,6 +6,9 @@ https://m.youtube.com/watch?v=kd6CA5mfhps
 Node.jsアプリをHerokuを使ってデプロイ(公開)する方法 ~Node.js入門~
 https://m.youtube.com/watch?v=5wrZ1LwE2os
 
+【iOS / Xcode】WebViewを用いて、iosアプリを作成する
+https://zenn.dev/dara/scraps/cf1690c0a09f43
+
 【入門】WEBページをアプリで表示 WebView(WKWebView)の使い方
 https://mo-gu-mo-gu.com/ios-wkwebview-tutorial/
 
