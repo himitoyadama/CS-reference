@@ -6,6 +6,9 @@ https://m.youtube.com/watch?v=kd6CA5mfhps
 Node.jsアプリをHerokuを使ってデプロイ(公開)する方法 ~Node.js入門~
 https://m.youtube.com/watch?v=5wrZ1LwE2os
 
+【入門】WEBページをアプリで表示 WebView(WKWebView)の使い方
+https://mo-gu-mo-gu.com/ios-wkwebview-tutorial/
+
 【初心者向け】Android Studioでアプリアイコンの設定をしよう！ 
 https://www.youtube.com/watch?v=LV-AXc3MZyw
 
