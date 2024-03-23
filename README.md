@@ -1,5 +1,8 @@
 #ホストクラブ用の会員証作成
 
+XFREEの使い方　＃２PHP・MySQL編
+https://m.youtube.com/watch?v=bpmGYY0-BGQ
+
 【Web制作】Webサイト公開までの流れを一気に解説！フリーランス志望の方必見【ドメイン / サーバー】 
 https://m.youtube.com/watch?v=kd6CA5mfhps
 
